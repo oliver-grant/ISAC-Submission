@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.4)  5 JUN 2016 13:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.4)  5 JUN 2016 15:33
 entering extended mode
 **lipics-v2016-sample-article.tex
 
@@ -858,7 +858,11 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
 ("C:\Users\Oliver\Documents\UW Master's Thesis\ISAC Submission\lipics-v2016-sam
-ple-article.aux")
+ple-article.aux"
+
+LaTeX Warning: Label `Claim1' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
@@ -880,7 +884,8 @@ LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 47.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -1023,113 +1028,381 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <4.16495> on input line 49.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <2.97498> on input line 49.
-LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 53.
+LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 52.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9.5> on input line 53.
+(Font)              <9.5> on input line 52.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6.64996> on input line 53.
+(Font)              <6.64996> on input line 52.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <4.75> on input line 53.
+(Font)              <4.75> on input line 52.
 
-Overfull \hbox (3.01637pt too wide) in paragraph at lines 66--67
-[]\T1/lmr/m/n/10 (-20) Use the provided sec-tion-ing mac-ros: []\T1/lmtt/m/n/10
- \section\T1/lmr/m/n/10 (-20) , []\T1/lmtt/m/n/10 \subsection\T1/lmr/m/n/10 (-2
-0) , []\T1/lmtt/m/n/10 \subsection*\T1/lmr/m/n/10 (-20) , []\T1/lmtt/m/n/10 \pa
-ragraph\T1/lmr/m/n/10 (-20) ,
- []
 
-<cc-by.pdf, id=30, 88.33pt x 31.11626pt>
+LaTeX Warning: Citation `knuth1971optimum' on page 1 undefined on input line 59
+.
+
+<cc-by.pdf, id=41, 88.33pt x 31.11626pt>
 File: cc-by.pdf Graphic file (type pdf)
  <use cc-by.pdf>
-Package pdftex.def Info: cc-by.pdf used on input line 70.
+Package pdftex.def Info: cc-by.pdf used on input line 62.
 (pdftex.def)             Requested size: 39.74274pt x 14.0pt.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 70.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 62.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<lipics-logo-bw.pdf, id=34, 591.44762pt x 144.42657pt>
+<lipics-logo-bw.pdf, id=45, 591.44762pt x 144.42657pt>
 File: lipics-logo-bw.pdf Graphic file (type pdf)
 
 <use lipics-logo-bw.pdf>
-Package pdftex.def Info: lipics-logo-bw.pdf used on input line 70.
+Package pdftex.def Info: lipics-logo-bw.pdf used on input line 62.
 (pdftex.def)             Requested size: 64.00354pt x 14.0pt.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Oliver/Documents
 /UW Master's Thesis/ISAC Submission/cc-by.pdf> <C:/Users/Oliver/Documents/UW Ma
 ster's Thesis/ISAC Submission/lipics-logo-bw.pdf>]
-Underfull \hbox (badness 1546) in paragraph at lines 70--71
+
+LaTeX Warning: Citation `knuth1971optimum' on page 2 undefined on input line 67
+.
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 2 undefined on input line 6
+7.
+
+
+LaTeX Warning: Citation `Dock:228063' on page 2 undefined on input line 69.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 72.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+LaTeX Warning: Citation `ARM' on page 2 undefined on input line 74.
+
+
+LaTeX Warning: Citation `walker1971top' on page 2 undefined on input line 76.
+
+
+LaTeX Warning: Citation `knuth1971optimum' on page 2 undefined on input line 76
+.
+
+[2]
+
+LaTeX Warning: Citation `knuth1971optimum' on page 3 undefined on input line 84
+.
+
+
+LaTeX Warning: Citation `bayer1975improved' on page 3 undefined on input line 8
+4.
+
+
+LaTeX Warning: Citation `fredman1975two' on page 3 undefined on input line 84.
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 3 undefined on input line 8
+5.
+
+
+LaTeX Warning: Citation `horibe1977improved' on page 3 undefined on input line 
+85.
+
+
+LaTeX Warning: Reference `An Improved Bound for the Modified Minimum Entropy He
+uristic' on page 3 undefined on input line 89.
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 3 undefined on input line 8
+9.
+
+
+LaTeX Warning: Reference `An Improved Bound for the Modified Minimum Entropy He
+uristic' on page 3 undefined on input line 89.
+
+
+LaTeX Warning: Citation `de1993binary' on page 3 undefined on input line 89.
+
+
+LaTeX Warning: Reference `sec:deBST' on page 3 undefined on input line 89.
+
+
+LaTeX Warning: Reference `sec:deBST' on page 3 undefined on input line 89.
+
+
+LaTeX Warning: Citation `bose2009efficient' on page 3 undefined on input line 8
+9.
+
+
+LaTeX Warning: Reference `An Improved Bound for the Modified Minimum Entropy He
+uristic' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 3 undefined on input line 9
+5.
+
+
+LaTeX Warning: Citation `bayer1975improved' on page 3 undefined on input line 9
+5.
+
+
+LaTeX Warning: Citation `knuth1971optimum' on page 3 undefined on input line 95
+.
+
+
+LaTeX Warning: Citation `bayer1975improved' on page 3 undefined on input line 9
+5.
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 3 undefined on input line 9
+5.
+
+
+LaTeX Warning: Reference `Approximate Binary Search in the Hierarchical Memory 
+Model' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `aggarwal1987model' on page 3 undefined on input line 9
+5.
+
+
+LaTeX Warning: Citation `thite2008optimum' on page 3 undefined on input line 95
+.
+
+
+LaTeX Warning: Reference `BST over Multisets' on page 3 undefined on input line
+ 95.
+
+[3]
+
+LaTeX Warning: Citation `guttler1980binary' on page 4 undefined on input line 9
+9.
+
+
+LaTeX Warning: Citation `horibe1977improved' on page 4 undefined on input line 
+114.
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 4 undefined on input line 1
+14.
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 4 undefined on input line 1
+16.
+
+
+LaTeX Warning: Citation `gallager1968information' on page 4 undefined on input 
+line 133.
+
+[4]
+
+LaTeX Warning: Reference `The Modified Entropy Rule' on page 5 undefined on inp
+ut line 136.
+
+
+LaTeX Warning: Reference `The Modified Entropy Rule' on page 5 undefined on inp
+ut line 147.
+
+
+LaTeX Warning: Reference `The Modified Entropy Rule' on page 5 undefined on inp
+ut line 147.
+
+
+LaTeX Warning: Reference `The Modified Entropy Rule' on page 5 undefined on inp
+ut line 151.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+
+LaTeX Warning: Reference `The Modified Entropy Rule' on page 5 undefined on inp
+ut line 160.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+
+ []
+
+[5]
+Overfull \hbox (1.92265pt too wide) in paragraph at lines 174--176
+\T1/lmr/m/n/10 (-20) use \T1/lmr/m/it/10 (-20) Rule b\T1/lmr/m/n/10 (-20) ): th
+ere does not ex-ist a $\OT1/lmr/m/n/10 (-20) (\OML/lmm/m/it/10 B[]; B[]\OT1/lmr
+/m/n/10 (-20) )$ \T1/lmr/m/n/10 (-20) such that $[] \OML/lmm/m/it/10 > max\OT1/
+lmr/m/n/10 (-20) (\OML/lmm/m/it/10 P[]\OT1/lmr/m/n/10 (-20) (\OML/lmm/m/it/10 B
+[]; B[]\OT1/lmr/m/n/10 (-20) )\OML/lmm/m/it/10 ; P[]\OT1/lmr/m/n/10 (-20) (\OML
+/lmm/m/it/10 B[]; B[]\OT1/lmr/m/n/10 (-20) ))$\T1/lmr/m/n/10 (-20) .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+
+ []
+
+
+LaTeX Warning: Citation `guttler1980binary' on page 6 undefined on input line 1
+88.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
+
+ []
+
+\c@claim=\count138
+
+LaTeX Warning: Citation `bayer1975improved' on page 6 undefined on input line 2
+19.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
+
+ []
+
+[6]
+
+LaTeX Warning: Reference `The Modified Entropy Rule' on page 7 undefined on inp
+ut line 233.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--234
+
+ []
+
+
+LaTeX Warning: Citation `bayer1975improved' on page 7 undefined on input line 2
+44.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--248
+
+ []
+
+
+LaTeX Warning: Citation `bayer1975improved' on page 7 undefined on input line 2
+50.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+[8]
+Overfull \hbox (3.01637pt too wide) in paragraph at lines 315--316
+[]\T1/lmr/m/n/10 (-20) Use the provided sec-tion-ing mac-ros: []\T1/lmtt/m/n/10
+ \section\T1/lmr/m/n/10 (-20) , []\T1/lmtt/m/n/10 \subsection\T1/lmr/m/n/10 (-2
+0) , []\T1/lmtt/m/n/10 \subsection*\T1/lmr/m/n/10 (-20) , []\T1/lmtt/m/n/10 \pa
+ragraph\T1/lmr/m/n/10 (-20) ,
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 319--320
 []\T1/lmr/m/n/10 (+20) Keep the stand-ard style ([]\T1/lmtt/m/n/10 plainurl\T1/
 lmr/m/n/10 (+20) ) for the bib-li-o-graphy as provided by the
  []
 
 
-LaTeX Warning: Citation `DBLP:journals/cacm/Knuth74' on page 2 undefined on inp
-ut line 79.
+LaTeX Warning: Citation `DBLP:journals/cacm/Knuth74' on page 9 undefined on inp
+ut line 328.
+
+[9]
+
+LaTeX Warning: Citation `DBLP:books/mk/GrayR93' on page 10 undefined on input l
+ine 339.
 
 
-LaTeX Warning: Citation `DBLP:books/mk/GrayR93' on page 2 undefined on input li
-ne 90.
+LaTeX Warning: Citation `DBLP:journals/cacm/Dijkstra68a' on page 10 undefined o
+n input line 346.
 
 
-LaTeX Warning: Citation `DBLP:journals/cacm/Dijkstra68a' on page 2 undefined on
- input line 97.
+LaTeX Warning: Citation `DBLP:conf/focs/HopcroftPV75' on page 10 undefined on i
+nput line 367.
 
-[2]
-
-LaTeX Warning: Citation `DBLP:conf/focs/HopcroftPV75' on page 3 undefined on in
-put line 118.
-
+[10]
 No file lipics-v2016-sample-article.bbl.
 
 AED: lastpage setting LastPage
-[3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
+[11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
 
 ("C:\Users\Oliver\Documents\UW Master's Thesis\ISAC Submission\lipics-v2016-sam
 ple-article.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
 Package rerunfilecheck Info: File `lipics-v2016-sample-article.out' has not cha
 nged.
-(rerunfilecheck)             Checksum: 30424C0B79A567409C9764FCA15D6A50;418.
+(rerunfilecheck)             Checksum: B89500CDC2893DD5094B2915606B023A;645.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
  ) 
 Here is how much of TeX's memory you used:
- 12402 strings out of 493921
- 186957 string characters out of 3144874
- 299191 words of memory out of 3000000
- 15350 multiletter control sequences out of 15000+200000
- 150481 words of font info for 165 fonts, out of 3000000 for 9000
+ 12573 strings out of 493921
+ 189398 string characters out of 3144874
+ 302519 words of memory out of 3000000
+ 15411 multiletter control sequences out of 15000+200000
+ 170095 words of font info for 210 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 44i,11n,43p,1000b,1156s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,43p,1955b,1156s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/
-MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmbsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
-bsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx8.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr9
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/lm/lmtk10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/lm/lmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmtt9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/symbols/msam10.pfb>
-Output written on lipics-v2016-sample-article.pdf (3 pages, 383423 bytes).
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc} <C:\Users\Oliver\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk>{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files (x86)/MiK
+TeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm
+/lm-mathex.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbsy10
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbsy5.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/lm/lmbx8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/lm/lmbxi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi
+10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi5.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/l
+m/lmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/lm/lmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/l
+m/lmtk10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt9.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on lipics-v2016-sample-article.pdf (11 pages, 518984 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 37953 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 40537 words of extra memory for PDF output out of 42996 (max. 10000000)
 
